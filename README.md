@@ -1,2 +1,2 @@
 # Website1
-First website; exploring html
+Hello World! This is the amazingly amazing website of Kristine Thomas
