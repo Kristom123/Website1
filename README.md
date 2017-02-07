@@ -1,2 +1,2 @@
 # Website1
-Hello World! This is the amzingly amzing website of Kristine Thomas
+Hello World! This is the amazingly amazing website of Kristine Thomas
